@@ -1,0 +1,40 @@
+{
+    "name": "KUSK/core-php",
+    "description": "Set of classes to deal with KUSK's API",
+    "type": "library",
+    "keywords": [
+        "KUSK",
+        "api",
+        "datastructures",
+        "data-structures"
+    ],
+    "homepage": "https://github.com/KUSK-TOP/core-php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gustavo 'Gus' Carreno",
+            "email": "guscarreno@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "KUSK\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "KUSK\\Test\\": "tests/"
+        }
+    },
+    "require": {
+        "php": ">=8.0",
+        "guzzlehttp/guzzle": "^7.8"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^11.2"
+    },
+    "scripts": {
+        "test":"phpunit --display-warnings --display-deprecations --colors=always"
+    }
+}
