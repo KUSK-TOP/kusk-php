@@ -1,10 +1,10 @@
 # KUSK Core-PHP
 
-[![Supports Windows](https://img.shields.io/badge/support-Windows-blue?logo=Windows)](https://github.com/KUSK-TOP/core-php/releases/latest)
-[![Supports Linux](https://img.shields.io/badge/support-Linux-yellow?logo=Linux)](https://github.com/KUSK-TOP/core-php/releases/latest)
-[![License](https://img.shields.io/github/license/KUSK-TOP/core)](https://github.com/KUSK-TOP/core-php/blob/master/LICENSE)
-[![Latest Release](https://img.shields.io/github/v/release/KUSK-TOP/core?label=latest%20release)](https://github.com/KUSK-TOP/core-php/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/KUSK-TOP/core-php/total)](https://github.com/KUSK-TOP/core-php/releases)
+[![Supports Windows](https://img.shields.io/badge/support-Windows-blue?logo=Windows)](https://github.com/KUSK-TOP/kusk-php/releases/latest)
+[![Supports Linux](https://img.shields.io/badge/support-Linux-yellow?logo=Linux)](https://github.com/KUSK-TOP/kusk-php/releases/latest)
+[![License](https://img.shields.io/github/license/KUSK-TOP/core)](https://github.com/KUSK-TOP/kusk-php/blob/master/LICENSE)
+[![Latest Release](https://img.shields.io/github/v/release/KUSK-TOP/core?label=latest%20release)](https://github.com/KUSK-TOP/kusk-php/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/KUSK-TOP/kusk-php/total)](https://github.com/KUSK-TOP/kusk-php/releases)
 
 Set of classes to deal with `KUSK`'s `API`.
 

@@ -11,7 +11,7 @@
   </php>
   <!-- Add any additional test suites you want to run here -->
   <testsuites>
-    <testsuite name="core-php">
+    <testsuite name="kusk-php">
       <directory>tests/</directory>
     </testsuite>
     <!-- Add plugin test suites here. -->
