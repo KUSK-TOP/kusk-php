@@ -51,7 +51,7 @@ echo "===========\n\n";
 ```php
 echo "== Transaction ==\n";
 try {
-    $transaction = $api->getTransaction("fc64be31e56a448879f9984599cafead466ec5b1a985c6ce8e6d45685c55b7d1");
+    $transaction = $api->getTransaction("007764eeb1cee5bb3650eddb4c164dd9ab8aab24a12462e954d9f2985180970d");
     echo json_encode($transaction, JSON_PRETTY_PRINT) . "\n";
 } catch (Exception $e) {
     echo "Error: ". $e->getMessage() ."\n";
