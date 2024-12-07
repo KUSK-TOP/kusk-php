@@ -70,7 +70,7 @@ echo "===========\n\n";
 ### Get Pending Transaction
 ```php
 echo "== Get Pending Transaction ==\n";
-$transaction = $api->getPendingTransaction("fc64be31e56a448879f9984599cafead466ec5b1a985c6ce8e6d45685c55b7d1");
+$transaction = $api->getPendingTransaction("007764eeb1cee5bb3650eddb4c164dd9ab8aab24a12462e954d9f2985180970d");
 echo json_encode($transaction, JSON_PRETTY_PRINT)."\n";
 echo "===========\n\n";
 ```
